@@ -9,7 +9,7 @@ including assessments and their corresponding question papers.
 
 **Question Paper**
 
-![Assessment 1 Question Paper](question_papers\WhatsApp Image 2026-01-16 at 2.29.09 PM.jpeg)
+[![Assessment 1 Question Paper](question_papers\WhatsApp Image 2026-01-16 at 2.29.09 PM.jpeg)](https://github.com/Lokeshbabu-2005/C_programming/issues/1#issue-3821097396)
 
 ---
 
